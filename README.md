@@ -17,6 +17,7 @@ This mini-project explores **surface reconstruction** from 3D point clouds using
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📁 Structure
