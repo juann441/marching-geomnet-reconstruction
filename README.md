@@ -5,7 +5,11 @@ This mini-project explores **surface reconstruction** from 3D point clouds using
 - A simple **Signed Distance Function (SDF)** computed from normals
 - The **Marching Cubes** algorithm to generate a mesh
 - (Optional) A neural network-based reconstruction method like **GeomNet**
-
+- 
+<p align="center">
+  <img src="res_64.png" alt="Résolution 64³" width="45%"/>
+  <img src="res_128.png" alt="Résolution 128³" width="45%"/>
+</p>
 ---
 
 ## 📁 Structure
