@@ -1,0 +1,24 @@
+name: tpcpe
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - networkx
+  - sympy
+  - pyyaml
+  - requests
+  - jinja2
+  - pillow
+  - ffmpeg
+  - pytorch=2.1.0
+  - torchvision=0.16.0
+  - torchaudio=2.1.0
+  - pytorch-cuda=11.8  # ⚠️ Nécessite une carte NVIDIA compatible
+  - pip:
+      - pymcubes==0.1.4
